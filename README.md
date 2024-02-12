@@ -5,6 +5,6 @@
 ## Why is this needed?
 For now, the description is only available in the form of posts in my Russian-language Telegram channel:
 
-https://t.me/avleonovrus/1116
-https://t.me/avleonovrus/1156
-https://t.me/avleonovrus/1168
+* https://t.me/avleonovrus/1116
+* https://t.me/avleonovrus/1156
+* https://t.me/avleonovrus/1168
