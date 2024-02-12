@@ -1,6 +1,6 @@
 **Vulremi** (from “Vulnerability” and “Remidiation”) is an extensible framework for describing the state of assets (in terms of the presence of vulnerabilities) and tracking the remediation of vulnerabilities.
 
-![vulremi logo](https://github.com/leonov-av/vulremi/blob/master/logo/vulremi_line.png)
+![vulremi logo](https://github.com/leonov-av/vulremi/blob/main/logo/vulremi_line.png)
 
 ## Why is this needed?
 For now, the description is only available in the form of posts in my Russian-language Telegram channel:
